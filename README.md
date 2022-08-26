@@ -2,7 +2,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FramedGames1&show_icons=true&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FramedGames1&show_icons=true&theme=highcontrast)]
 
 <!--
 **FramedGames1/FramedGames1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
