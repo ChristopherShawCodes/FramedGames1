@@ -3,7 +3,7 @@ Christopher Shaw / FramedGames
 - 🎮 Video Games
 - ⛩ Currently attending Coding Dojo
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FramedGames1&show_icons=true&theme=gotham)]
+[![Christopher Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=FramedGames1&show_icons=true&theme=gotham)]
 
 
 - ⚡ Currently Learning: Python 
