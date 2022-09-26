@@ -2,7 +2,7 @@ Christopher Shaw / FramedGames
 - 🎨 Content Creation
 - 🎮 Video Games
 - ⛩ Currently Attending Coding Dojo
-- 😄 Python Belt Acquired
+- 🐍  Python Belt Acquired
 
 ![Christopher Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=FramedGames1&show_icons=true&theme=gotham)
 
