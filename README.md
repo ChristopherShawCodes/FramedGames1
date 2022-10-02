@@ -1,6 +1,5 @@
 Christopher Shaw / FramedGames
-- 🎨 Content Creation
-- 🎮 Video Games
+- 🎮 Video Games Are Life !
 - ⛩ Currently Attending Coding Dojo
 - 🐍  Python Belt Acquired
 
