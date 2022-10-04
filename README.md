@@ -7,7 +7,7 @@ Christopher Shaw / FramedGames
 
 - 👨‍🏫 Currently Learning: MERN / JS
 - 👨‍💻 Currently Building: A pixel rpg game
-- ✅ Last Completed: 
+- ✅ Last Completed: fight
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FramedGames1&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
