@@ -1,5 +1,5 @@
 Christopher Shaw / FramedGames
-- 🎮 I Enjoy Making Games !
+- 🎮 Gamer !
 - ⛩ Currently Attending Coding Dojo
 - 🐍  Python Belt Acquired
 
