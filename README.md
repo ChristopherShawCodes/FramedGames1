@@ -1,5 +1,6 @@
 Christopher Shaw / FramedGames
-- 🎮 Gamer !
+- Creative Coding
+- I enjoy CSS and JS
 - ⛩ Currently Attending Coding Dojo
 
 Full Stack Belts Acquired: 
