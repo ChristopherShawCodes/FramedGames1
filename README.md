@@ -1,11 +1,9 @@
 Christopher Shaw / FramedGames
 
-- Creative Coder
+- Making cool stuff with code !
 - ⛩ Coding Dojo Alumni
-- 
-- 📫 Contact Me: 
-- https://twitter.com/Framed_Games
-
+- Let's Connect:
+https://www.linkedin.com/in/christophercodes/
 
 ![Christopher Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=FramedGames1&show_icons=true&theme=gotham)
 
