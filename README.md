@@ -1,16 +1,14 @@
 Christopher Shaw / FramedGames
-- Creative Coding
-- I enjoy CSS and JS
-- ⛩ Currently Attending Coding Dojo
 
-Full Stack Belts Acquired: 
+- Creative Coder
+- ⛩ Coding Dojo Alumni
+- 
+- 📫 Contact Me: 
+- https://twitter.com/Framed_Games
 
-- 🐍 Python
-- 🟨 Javascript
 
 ![Christopher Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=FramedGames1&show_icons=true&theme=gotham)
 
-- 📫 Reach Me: https://twitter.com/Framed_Games
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FramedGames1&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
